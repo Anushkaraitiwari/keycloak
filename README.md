@@ -27,6 +27,7 @@ Keycloak provides user federation, strong authentication, user management, fine-
 
 If you have found a security vulnerability, please look at the [instructions on how to properly report it](https://github.com/keycloak/keycloak/security/policy).
 
+#BSS Keycloak
 
 ## Reporting an issue
 
